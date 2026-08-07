@@ -35,7 +35,7 @@ To see how far that is from normal, you have to look back. At the end of 2018, t
 In six years, it has more than doubled.
 
 ![The Crown Court backlog, 2016 to 2025](visuals/01_backlog_trajectory.png)
-*Outstanding Crown Court cases at the end of each quarter, 2016–2025. Source: MOJ Criminal Court Statistics Quarterly, Oct–Dec 2025 (One Crown basis) · github.com/YusufIsmailayo*
+*Outstanding Crown Court cases at the end of each quarter, 2016–2025.*
 
 That is the headline. But the headline is the least interesting thing in this dataset. The real story is underneath it — in *why* the pile keeps growing, and in *who* is stuck at the bottom of it.
 
@@ -56,7 +56,7 @@ That is the engine. Demand has outrun a system that is already running faster th
 The courts cleared more cases than they have in years. The backlog still hit a record.
 
 ![Crown Court receipts versus disposals](visuals/02_more_in_than_out.png)
-*Quarterly Crown Court receipts vs disposals. When the red line sits above the blue, the backlog grows — it has, for eleven quarters straight. Source: MOJ CCSQ, Oct–Dec 2025 · github.com/YusufIsmailayo*
+*Quarterly Crown Court receipts vs disposals — when the red line sits above the blue, the backlog grows.*
 
 ## Big is one problem. Old is a worse one.
 
@@ -71,7 +71,7 @@ In raw numbers, that is **21,002 open cases** that have been live for over a yea
 And there is a wave behind the wave. Another **17,893** cases are currently sitting in the six-months-to-a-year band. They have not crossed the one-year line yet. On current form, a large share of them will. The ageing is not finished. It is loading.
 
 ![Share of the caseload waiting a year or more](visuals/03_ageing_share.png)
-*Share of open Crown Court cases waiting a year or more, 2019–2025. Source: MOJ CCSQ, Oct–Dec 2025 · github.com/YusufIsmailayo*
+*Share of open Crown Court cases waiting a year or more, 2019–2025.*
 
 ## Same courts. Same country. And the oldest cases are the most serious ones.
 
@@ -88,7 +88,7 @@ Together, those two categories make up **52.8%** of every case that has been wai
 The system is not failing at the edges. It is slowest exactly where the stakes are highest.
 
 ![The oldest cases by offence](visuals/04_oldest_by_offence.png)
-*Open Crown Court cases waiting a year or more, by offence, December 2025. Violence against the person and sexual offences together make up 52.8%. Source: MOJ CCSQ · github.com/YusufIsmailayo*
+*Open cases waiting a year or more, by offence, December 2025.*
 
 ## What the data cannot tell you
 
