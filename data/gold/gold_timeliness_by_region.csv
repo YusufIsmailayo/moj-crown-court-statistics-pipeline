@@ -1,0 +1,321 @@
+quarter_end,year,quarter,region,geo_level,offence_to_completion_median,offence_to_completion_mean
+2016-03-31,2016,Q1,Wales,region,183.0,434.0
+2016-03-31,2016,Q1,North East,region,217.0,505.0
+2016-03-31,2016,Q1,South West,region,236.0,554.0
+2016-03-31,2016,Q1,England and Wales,national,242.0,500.0
+2016-03-31,2016,Q1,North West,region,243.0,498.0
+2016-03-31,2016,Q1,Midlands,region,248.0,523.0
+2016-03-31,2016,Q1,London,region,254.0,430.0
+2016-03-31,2016,Q1,South East,region,266.0,541.0
+2016-06-30,2016,Q2,Wales,region,196.0,587.0
+2016-06-30,2016,Q2,North East,region,247.0,556.0
+2016-06-30,2016,Q2,North West,region,254.0,616.0
+2016-06-30,2016,Q2,Midlands,region,258.0,584.0
+2016-06-30,2016,Q2,England and Wales,national,260.0,575.0
+2016-06-30,2016,Q2,London,region,273.0,447.0
+2016-06-30,2016,Q2,South West,region,274.0,662.0
+2016-06-30,2016,Q2,South East,region,281.0,649.0
+2016-09-30,2016,Q3,Wales,region,197.0,441.0
+2016-09-30,2016,Q3,North East,region,234.0,538.0
+2016-09-30,2016,Q3,South West,region,256.0,687.0
+2016-09-30,2016,Q3,Midlands,region,259.0,559.0
+2016-09-30,2016,Q3,England and Wales,national,261.0,568.0
+2016-09-30,2016,Q3,North West,region,276.0,564.0
+2016-09-30,2016,Q3,London,region,278.0,511.0
+2016-09-30,2016,Q3,South East,region,294.0,652.0
+2016-12-31,2016,Q4,Wales,region,178.0,540.0
+2016-12-31,2016,Q4,North East,region,235.5,609.0
+2016-12-31,2016,Q4,South West,region,241.0,559.0
+2016-12-31,2016,Q4,London,region,245.0,481.0
+2016-12-31,2016,Q4,England and Wales,national,248.0,577.0
+2016-12-31,2016,Q4,Midlands,region,249.5,619.0
+2016-12-31,2016,Q4,South East,region,275.0,592.0
+2016-12-31,2016,Q4,North West,region,278.0,634.0
+2017-03-31,2017,Q1,Wales,region,174.0,404.0
+2017-03-31,2017,Q1,North East,region,220.0,581.0
+2017-03-31,2017,Q1,North West,region,222.0,514.0
+2017-03-31,2017,Q1,South West,region,229.0,514.0
+2017-03-31,2017,Q1,England and Wales,national,237.0,525.0
+2017-03-31,2017,Q1,London,region,247.0,494.0
+2017-03-31,2017,Q1,Midlands,region,260.0,520.0
+2017-03-31,2017,Q1,South East,region,265.0,572.0
+2017-06-30,2017,Q2,Wales,region,172.0,426.0
+2017-06-30,2017,Q2,North East,region,217.0,550.0
+2017-06-30,2017,Q2,South West,region,231.0,540.0
+2017-06-30,2017,Q2,London,region,233.0,464.0
+2017-06-30,2017,Q2,England and Wales,national,235.0,509.0
+2017-06-30,2017,Q2,North West,region,248.0,571.0
+2017-06-30,2017,Q2,Midlands,region,250.0,524.0
+2017-06-30,2017,Q2,South East,region,252.0,474.0
+2017-09-30,2017,Q3,Wales,region,189.0,519.0
+2017-09-30,2017,Q3,London,region,223.0,456.0
+2017-09-30,2017,Q3,North East,region,224.0,603.0
+2017-09-30,2017,Q3,England and Wales,national,231.0,538.0
+2017-09-30,2017,Q3,Midlands,region,236.0,579.0
+2017-09-30,2017,Q3,South West,region,239.0,591.0
+2017-09-30,2017,Q3,North West,region,241.0,546.0
+2017-09-30,2017,Q3,South East,region,249.0,504.0
+2017-12-31,2017,Q4,Wales,region,190.0,489.0
+2017-12-31,2017,Q4,North East,region,219.0,523.0
+2017-12-31,2017,Q4,South West,region,226.0,511.0
+2017-12-31,2017,Q4,England and Wales,national,229.0,522.0
+2017-12-31,2017,Q4,London,region,232.0,461.0
+2017-12-31,2017,Q4,North West,region,233.0,557.0
+2017-12-31,2017,Q4,South East,region,236.0,536.0
+2017-12-31,2017,Q4,Midlands,region,250.0,566.0
+2018-03-31,2018,Q1,Wales,region,211.0,575.0
+2018-03-31,2018,Q1,London,region,216.0,474.0
+2018-03-31,2018,Q1,South West,region,225.0,493.0
+2018-03-31,2018,Q1,North East,region,232.5,480.0
+2018-03-31,2018,Q1,England and Wales,national,233.0,517.0
+2018-03-31,2018,Q1,North West,region,243.0,550.0
+2018-03-31,2018,Q1,South East,region,243.0,517.0
+2018-03-31,2018,Q1,Midlands,region,251.0,563.0
+2018-06-30,2018,Q2,Wales,region,210.0,477.0
+2018-06-30,2018,Q2,London,region,236.0,516.0
+2018-06-30,2018,Q2,North East,region,240.0,555.0
+2018-06-30,2018,Q2,South West,region,240.0,484.0
+2018-06-30,2018,Q2,England and Wales,national,244.0,544.0
+2018-06-30,2018,Q2,North West,region,249.0,594.0
+2018-06-30,2018,Q2,Midlands,region,254.0,579.0
+2018-06-30,2018,Q2,South East,region,258.0,548.0
+2018-09-30,2018,Q3,Wales,region,182.0,435.0
+2018-09-30,2018,Q3,London,region,213.5,444.0
+2018-09-30,2018,Q3,North East,region,219.0,486.0
+2018-09-30,2018,Q3,North West,region,228.0,557.0
+2018-09-30,2018,Q3,England and Wales,national,229.0,512.0
+2018-09-30,2018,Q3,South West,region,243.0,528.0
+2018-09-30,2018,Q3,Midlands,region,246.0,595.0
+2018-09-30,2018,Q3,South East,region,255.0,507.0
+2018-12-31,2018,Q4,Wales,region,173.5,446.0
+2018-12-31,2018,Q4,London,region,218.0,426.0
+2018-12-31,2018,Q4,North West,region,228.0,484.0
+2018-12-31,2018,Q4,England and Wales,national,233.0,497.0
+2018-12-31,2018,Q4,North East,region,234.0,522.0
+2018-12-31,2018,Q4,South West,region,235.5,447.0
+2018-12-31,2018,Q4,South East,region,260.0,516.0
+2018-12-31,2018,Q4,Midlands,region,262.0,583.0
+2019-03-31,2019,Q1,Wales,region,210.0,451.0
+2019-03-31,2019,Q1,London,region,221.0,414.0
+2019-03-31,2019,Q1,North East,region,232.0,513.0
+2019-03-31,2019,Q1,England and Wales,national,242.0,475.0
+2019-03-31,2019,Q1,South West,region,245.0,471.0
+2019-03-31,2019,Q1,North West,region,249.0,485.0
+2019-03-31,2019,Q1,Midlands,region,255.0,509.0
+2019-03-31,2019,Q1,South East,region,266.0,472.0
+2019-06-30,2019,Q2,Wales,region,219.0,486.0
+2019-06-30,2019,Q2,London,region,238.0,404.0
+2019-06-30,2019,Q2,North East,region,243.0,512.0
+2019-06-30,2019,Q2,England and Wales,national,253.0,486.0
+2019-06-30,2019,Q2,North West,region,255.0,489.0
+2019-06-30,2019,Q2,Midlands,region,259.0,576.0
+2019-06-30,2019,Q2,South West,region,263.0,491.0
+2019-06-30,2019,Q2,South East,region,280.0,447.0
+2019-09-30,2019,Q3,Wales,region,196.5,438.0
+2019-09-30,2019,Q3,London,region,228.0,430.0
+2019-09-30,2019,Q3,North East,region,250.0,536.0
+2019-09-30,2019,Q3,England and Wales,national,252.0,478.0
+2019-09-30,2019,Q3,Midlands,region,253.0,501.0
+2019-09-30,2019,Q3,North West,region,257.0,488.0
+2019-09-30,2019,Q3,South West,region,267.0,448.0
+2019-09-30,2019,Q3,South East,region,290.5,470.0
+2019-12-31,2019,Q4,Wales,region,212.0,394.0
+2019-12-31,2019,Q4,London,region,241.0,416.0
+2019-12-31,2019,Q4,North East,region,248.0,511.0
+2019-12-31,2019,Q4,England and Wales,national,254.0,479.0
+2019-12-31,2019,Q4,North West,region,255.0,500.0
+2019-12-31,2019,Q4,South East,region,259.0,466.0
+2019-12-31,2019,Q4,Midlands,region,273.5,515.0
+2019-12-31,2019,Q4,South West,region,276.0,519.0
+2020-03-31,2020,Q1,Wales,region,213.0,478.0
+2020-03-31,2020,Q1,London,region,233.0,404.0
+2020-03-31,2020,Q1,North East,region,250.0,510.0
+2020-03-31,2020,Q1,England and Wales,national,252.0,470.0
+2020-03-31,2020,Q1,North West,region,262.0,523.0
+2020-03-31,2020,Q1,South East,region,265.0,445.0
+2020-03-31,2020,Q1,Midlands,region,268.0,488.0
+2020-03-31,2020,Q1,South West,region,274.0,442.0
+2020-06-30,2020,Q2,North East,region,179.0,349.0
+2020-06-30,2020,Q2,London,region,199.0,326.0
+2020-06-30,2020,Q2,North West,region,208.0,323.0
+2020-06-30,2020,Q2,England and Wales,national,210.0,358.0
+2020-06-30,2020,Q2,Midlands,region,216.0,381.0
+2020-06-30,2020,Q2,Wales,region,224.0,379.0
+2020-06-30,2020,Q2,South West,region,232.5,354.0
+2020-06-30,2020,Q2,South East,region,238.0,387.0
+2020-09-30,2020,Q3,London,region,257.0,397.0
+2020-09-30,2020,Q3,North East,region,260.5,394.0
+2020-09-30,2020,Q3,Wales,region,272.0,410.0
+2020-09-30,2020,Q3,England and Wales,national,280.0,426.0
+2020-09-30,2020,Q3,South West,region,280.5,425.0
+2020-09-30,2020,Q3,North West,region,288.0,390.0
+2020-09-30,2020,Q3,Midlands,region,300.5,482.0
+2020-09-30,2020,Q3,South East,region,303.5,465.0
+2020-12-31,2020,Q4,Wales,region,266.0,511.0
+2020-12-31,2020,Q4,London,region,299.5,430.0
+2020-12-31,2020,Q4,North East,region,301.0,501.0
+2020-12-31,2020,Q4,Midlands,region,313.0,503.0
+2020-12-31,2020,Q4,England and Wales,national,318.0,490.0
+2020-12-31,2020,Q4,South East,region,325.0,497.0
+2020-12-31,2020,Q4,North West,region,348.0,520.0
+2020-12-31,2020,Q4,South West,region,358.0,482.0
+2021-03-31,2021,Q1,Wales,region,291.0,527.0
+2021-03-31,2021,Q1,London,region,324.0,474.0
+2021-03-31,2021,Q1,North West,region,335.0,547.0
+2021-03-31,2021,Q1,England and Wales,national,352.0,530.0
+2021-03-31,2021,Q1,Midlands,region,352.5,559.0
+2021-03-31,2021,Q1,North East,region,366.0,549.0
+2021-03-31,2021,Q1,South East,region,371.0,540.0
+2021-03-31,2021,Q1,South West,region,388.0,507.0
+2021-06-30,2021,Q2,Wales,region,309.0,506.0
+2021-06-30,2021,Q2,London,region,368.0,525.0
+2021-06-30,2021,Q2,Midlands,region,368.0,572.0
+2021-06-30,2021,Q2,North West,region,375.0,613.0
+2021-06-30,2021,Q2,England and Wales,national,378.0,582.0
+2021-06-30,2021,Q2,North East,region,390.5,619.0
+2021-06-30,2021,Q2,South East,region,409.0,582.0
+2021-06-30,2021,Q2,South West,region,411.0,640.0
+2021-09-30,2021,Q3,Wales,region,313.0,506.0
+2021-09-30,2021,Q3,North East,region,362.0,696.0
+2021-09-30,2021,Q3,England and Wales,national,398.0,642.0
+2021-09-30,2021,Q3,London,region,401.0,558.0
+2021-09-30,2021,Q3,Midlands,region,402.0,621.0
+2021-09-30,2021,Q3,North West,region,407.0,689.0
+2021-09-30,2021,Q3,South West,region,414.0,712.0
+2021-09-30,2021,Q3,South East,region,427.0,669.0
+2021-12-31,2021,Q4,Wales,region,302.0,611.0
+2021-12-31,2021,Q4,North East,region,359.0,672.0
+2021-12-31,2021,Q4,North West,region,386.0,675.0
+2021-12-31,2021,Q4,Midlands,region,390.0,688.0
+2021-12-31,2021,Q4,England and Wales,national,401.0,657.0
+2021-12-31,2021,Q4,South West,region,414.0,709.0
+2021-12-31,2021,Q4,London,region,415.0,567.0
+2021-12-31,2021,Q4,South East,region,451.5,691.0
+2022-03-31,2022,Q1,Wales,region,281.0,515.0
+2022-03-31,2022,Q1,North West,region,381.0,628.0
+2022-03-31,2022,Q1,North East,region,384.0,660.0
+2022-03-31,2022,Q1,England and Wales,national,405.0,642.0
+2022-03-31,2022,Q1,South West,region,406.0,714.0
+2022-03-31,2022,Q1,Midlands,region,407.0,600.0
+2022-03-31,2022,Q1,South East,region,438.0,682.0
+2022-03-31,2022,Q1,London,region,453.0,635.0
+2022-06-30,2022,Q2,Wales,region,306.0,465.0
+2022-06-30,2022,Q2,North West,region,361.0,618.0
+2022-06-30,2022,Q2,North East,region,366.0,735.0
+2022-06-30,2022,Q2,Midlands,region,372.0,735.0
+2022-06-30,2022,Q2,England and Wales,national,383.0,665.0
+2022-06-30,2022,Q2,South West,region,385.0,712.0
+2022-06-30,2022,Q2,London,region,424.0,615.0
+2022-06-30,2022,Q2,South East,region,425.0,680.0
+2022-09-30,2022,Q3,Wales,region,249.5,437.0
+2022-09-30,2022,Q3,North East,region,308.0,652.0
+2022-09-30,2022,Q3,North West,region,329.5,650.0
+2022-09-30,2022,Q3,South West,region,355.5,678.0
+2022-09-30,2022,Q3,England and Wales,national,361.0,648.0
+2022-09-30,2022,Q3,Midlands,region,366.0,702.0
+2022-09-30,2022,Q3,South East,region,396.0,678.0
+2022-09-30,2022,Q3,London,region,466.0,628.0
+2022-12-31,2022,Q4,North West,region,327.0,538.0
+2022-12-31,2022,Q4,Wales,region,339.0,570.0
+2022-12-31,2022,Q4,North East,region,343.0,687.0
+2022-12-31,2022,Q4,South West,region,345.0,635.0
+2022-12-31,2022,Q4,England and Wales,national,379.0,636.0
+2022-12-31,2022,Q4,South East,region,389.0,654.0
+2022-12-31,2022,Q4,Midlands,region,405.0,686.0
+2022-12-31,2022,Q4,London,region,444.0,632.0
+2023-03-31,2023,Q1,Wales,region,271.0,560.0
+2023-03-31,2023,Q1,North West,region,347.0,616.0
+2023-03-31,2023,Q1,South West,region,365.0,675.0
+2023-03-31,2023,Q1,North East,region,386.0,742.0
+2023-03-31,2023,Q1,England and Wales,national,397.0,679.0
+2023-03-31,2023,Q1,London,region,426.0,664.0
+2023-03-31,2023,Q1,Midlands,region,430.0,714.0
+2023-03-31,2023,Q1,South East,region,450.0,703.0
+2023-06-30,2023,Q2,Wales,region,261.0,626.0
+2023-06-30,2023,Q2,South West,region,332.0,667.0
+2023-06-30,2023,Q2,North West,region,334.0,638.0
+2023-06-30,2023,Q2,North East,region,343.0,736.0
+2023-06-30,2023,Q2,England and Wales,national,381.0,704.0
+2023-06-30,2023,Q2,Midlands,region,424.0,747.0
+2023-06-30,2023,Q2,London,region,436.0,697.0
+2023-06-30,2023,Q2,South East,region,438.0,742.0
+2023-09-30,2023,Q3,Wales,region,260.0,526.0
+2023-09-30,2023,Q3,North West,region,292.0,581.0
+2023-09-30,2023,Q3,North East,region,304.5,688.0
+2023-09-30,2023,Q3,South West,region,345.0,685.0
+2023-09-30,2023,Q3,England and Wales,national,356.0,662.0
+2023-09-30,2023,Q3,Midlands,region,385.5,695.0
+2023-09-30,2023,Q3,South East,region,401.0,702.0
+2023-09-30,2023,Q3,London,region,442.0,672.0
+2023-12-31,2023,Q4,Wales,region,224.0,542.0
+2023-12-31,2023,Q4,North East,region,270.0,643.0
+2023-12-31,2023,Q4,North West,region,309.0,606.0
+2023-12-31,2023,Q4,South West,region,325.5,691.0
+2023-12-31,2023,Q4,England and Wales,national,333.0,673.0
+2023-12-31,2023,Q4,Midlands,region,356.0,737.0
+2023-12-31,2023,Q4,South East,region,373.5,722.0
+2023-12-31,2023,Q4,London,region,408.5,678.0
+2024-03-31,2024,Q1,Wales,region,243.0,557.0
+2024-03-31,2024,Q1,North East,region,291.0,651.0
+2024-03-31,2024,Q1,North West,region,305.5,622.0
+2024-03-31,2024,Q1,South West,region,334.0,641.0
+2024-03-31,2024,Q1,England and Wales,national,340.0,659.0
+2024-03-31,2024,Q1,Midlands,region,371.0,711.0
+2024-03-31,2024,Q1,London,region,379.0,643.0
+2024-03-31,2024,Q1,South East,region,390.0,705.0
+2024-06-30,2024,Q2,Wales,region,233.0,573.0
+2024-06-30,2024,Q2,North East,region,289.0,749.0
+2024-06-30,2024,Q2,South West,region,308.5,656.0
+2024-06-30,2024,Q2,North West,region,328.0,678.0
+2024-06-30,2024,Q2,England and Wales,national,334.0,696.0
+2024-06-30,2024,Q2,Midlands,region,347.0,729.0
+2024-06-30,2024,Q2,South East,region,369.0,711.0
+2024-06-30,2024,Q2,London,region,403.0,680.0
+2024-09-30,2024,Q3,Wales,region,243.0,575.0
+2024-09-30,2024,Q3,North East,region,261.0,701.0
+2024-09-30,2024,Q3,North West,region,282.0,602.0
+2024-09-30,2024,Q3,England and Wales,national,327.0,686.0
+2024-09-30,2024,Q3,South West,region,329.0,651.0
+2024-09-30,2024,Q3,Midlands,region,368.5,725.0
+2024-09-30,2024,Q3,South East,region,371.5,736.0
+2024-09-30,2024,Q3,London,region,374.0,713.0
+2024-12-31,2024,Q4,Wales,region,231.0,569.0
+2024-12-31,2024,Q4,North East,region,270.0,659.0
+2024-12-31,2024,Q4,North West,region,286.0,584.0
+2024-12-31,2024,Q4,England and Wales,national,313.0,673.0
+2024-12-31,2024,Q4,South West,region,326.0,636.0
+2024-12-31,2024,Q4,London,region,328.0,646.0
+2024-12-31,2024,Q4,Midlands,region,330.0,756.0
+2024-12-31,2024,Q4,South East,region,381.0,760.0
+2025-03-31,2025,Q1,Wales,region,245.0,522.0
+2025-03-31,2025,Q1,North East,region,289.0,733.0
+2025-03-31,2025,Q1,London,region,290.5,590.0
+2025-03-31,2025,Q1,North West,region,305.0,673.0
+2025-03-31,2025,Q1,England and Wales,national,326.0,677.0
+2025-03-31,2025,Q1,South West,region,332.0,662.0
+2025-03-31,2025,Q1,Midlands,region,383.0,720.0
+2025-03-31,2025,Q1,South East,region,399.0,729.0
+2025-06-30,2025,Q2,Wales,region,286.5,560.0
+2025-06-30,2025,Q2,North East,region,288.0,692.0
+2025-06-30,2025,Q2,South West,region,314.0,728.0
+2025-06-30,2025,Q2,London,region,316.5,588.0
+2025-06-30,2025,Q2,North West,region,319.5,655.0
+2025-06-30,2025,Q2,England and Wales,national,333.0,682.0
+2025-06-30,2025,Q2,Midlands,region,378.0,759.0
+2025-06-30,2025,Q2,South East,region,391.0,732.0
+2025-09-30,2025,Q3,Wales,region,259.0,552.0
+2025-09-30,2025,Q3,North East,region,319.5,739.0
+2025-09-30,2025,Q3,London,region,328.0,610.0
+2025-09-30,2025,Q3,North West,region,331.0,605.0
+2025-09-30,2025,Q3,England and Wales,national,344.0,677.0
+2025-09-30,2025,Q3,South West,region,360.0,763.0
+2025-09-30,2025,Q3,South East,region,377.5,716.0
+2025-09-30,2025,Q3,Midlands,region,388.0,709.0
+2025-12-31,2025,Q4,Wales,region,240.0,561.0
+2025-12-31,2025,Q4,North East,region,314.0,735.0
+2025-12-31,2025,Q4,North West,region,324.0,700.0
+2025-12-31,2025,Q4,London,region,339.0,620.0
+2025-12-31,2025,Q4,England and Wales,national,346.0,707.0
+2025-12-31,2025,Q4,South West,region,360.5,719.0
+2025-12-31,2025,Q4,Midlands,region,370.5,755.0
+2025-12-31,2025,Q4,South East,region,411.0,763.0
