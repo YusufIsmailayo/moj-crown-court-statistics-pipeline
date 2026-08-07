@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Crown Court backlog — cover / social cards</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700;1,900&family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cream:#F4F1E9; --ink:#13273A; --red:#D12E26; --royal:#1D4ED8;
+    --orange:#E08A1E; --label:#9AA1AC; --pink:#F7E7E4;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{background:#d9d5cc; padding:24px; font-family:'Inter',sans-serif;}
+  .hint{font-family:'IBM Plex Mono',monospace; color:#555; font-size:13px; margin:6px 4px 14px;}
+  /* ---- shared card look ---- */
+  .card{position:relative; background:var(--cream); overflow:hidden; margin-bottom:28px;
+        box-shadow:0 6px 24px rgba(0,0,0,.12);}
+  .landscape{width:1200px; height:630px; padding:56px 60px;}
+  .square{width:1080px; height:1080px; padding:70px 72px;}
+  .kicker{font-family:'IBM Plex Mono',monospace; font-weight:600; letter-spacing:.06em; font-size:17px;}
+  .kicker .brand{color:var(--royal);}
+  .kicker .meta{color:var(--label); margin-left:10px;}
+  .rule{width:74px; height:5px; background:var(--red); margin:14px 0 0;}
+  .title{font-family:'Playfair Display',serif; font-weight:900; color:var(--ink); line-height:1.02;}
+  .title .em{color:var(--red); font-style:italic;}
+  .landscape .title{font-size:74px; margin-top:34px;}
+  .square .title{font-size:104px; margin-top:44px;}
+  .wm{position:absolute; right:-10px; bottom:-40px; font-family:'Playfair Display',serif;
+      font-weight:900; color:#EAE4D6; z-index:0; line-height:.8;}
+  .landscape .wm{font-size:230px;}
+  .square .wm{font-size:340px;}
+  /* stat cards */
+  .stats{position:absolute; z-index:2;}
+  .landscape .stats{right:60px; top:120px; width:520px;}
+  .square .stats{left:72px; right:72px; top:560px;}
+  .stat{background:#fff; border-radius:12px; box-shadow:0 3px 12px rgba(0,0,0,.06);
+        display:flex; align-items:center; padding:26px 30px; margin-bottom:20px; overflow:hidden; position:relative;}
+  .stat::before{content:""; position:absolute; top:0; left:0; right:0; height:5px;}
+  .stat.r::before{background:var(--red);} .stat.b::before{background:var(--royal);} .stat.o::before{background:var(--orange);}
+  .stat .num{font-family:'Playfair Display',serif; font-weight:900; font-size:52px; width:230px;}
+  .stat.r .num{color:var(--red);} .stat.b .num{color:var(--royal);} .stat.o .num{color:var(--orange);}
+  .stat .lab{font-family:'Inter',sans-serif; font-weight:700; color:var(--label);
+             font-size:16px; letter-spacing:.04em; line-height:1.35; text-transform:uppercase;}
+  /* pull quote */
+  .quote{position:absolute; z-index:2; background:var(--pink); border-left:6px solid var(--red);
+         border-radius:6px; padding:22px 28px;}
+  .landscape .quote{left:60px; bottom:120px; width:520px;}
+  .square .quote{left:72px; bottom:150px; right:72px;}
+  .quote .q1{font-family:'Playfair Display',serif; font-style:italic; color:var(--ink); font-size:24px;}
+  .quote .q2{font-family:'Playfair Display',serif; font-weight:700; color:var(--red); font-size:25px; margin-top:4px;}
+  /* footer */
+  .foot{position:absolute; left:60px; bottom:48px; z-index:2;}
+  .square .foot{left:72px; bottom:60px;}
+  .foot .name{font-family:'Inter',sans-serif; font-weight:700; color:var(--ink); font-size:20px;}
+  .foot .link{font-family:'IBM Plex Mono',monospace; color:var(--royal); font-size:15px; margin-top:2px;}
+  .btn{position:absolute; right:60px; bottom:48px; z-index:2; background:var(--ink); color:#fff;
+       font-family:'IBM Plex Mono',monospace; font-weight:600; font-size:15px; letter-spacing:.05em;
+       padding:14px 22px; border-radius:8px;}
+  .square .social{position:absolute; right:72px; bottom:60px; text-align:right; z-index:2;}
+  .square .social .r1{font-family:'IBM Plex Mono',monospace; color:var(--label); font-size:15px; letter-spacing:.06em;}
+  .square .social .r2{font-family:'IBM Plex Mono',monospace; color:var(--label); font-size:14px; margin-top:4px;}
+</style>
+</head>
+<body>
+<div class="hint">Open in a browser. Screenshot each card at its exact pixel size (1200×630 for Medium/LinkedIn/X, 1080×1080 for Instagram). Edit the text below directly to reuse for other articles.</div>
+
+<!-- ============ LANDSCAPE / OG (Medium cover, LinkedIn, X) ============ -->
+<div class="card landscape">
+  <div class="wm">80,203</div>
+  <div class="kicker"><span class="brand">MOJ DATA ENGINEERING</span><span class="meta">· MEDIUM · AUGUST 2026</span></div>
+  <div class="rule"></div>
+  <div class="title">The Backlog<br><span class="em">Won't Stop.</span></div>
+  <div class="stats">
+    <div class="stat r"><div class="num">80,203</div><div class="lab">Open cases<br>a record</div></div>
+    <div class="stat b"><div class="num">21,002</div><div class="lab">Waiting<br>over a year</div></div>
+    <div class="stat o"><div class="num">52.8%</div><div class="lab">Of the oldest are<br>sexual or violent</div></div>
+  </div>
+  <div class="quote"><div class="q1">Same courts. More work than ever.</div><div class="q2">A bigger backlog than ever.</div></div>
+  <div class="foot"><div class="name">Yusuf Ismail</div><div class="link">medium.com/@yusufismail_91982</div></div>
+  <div class="btn">READ ON MEDIUM →</div>
+</div>
+
+<!-- ============ SQUARE (Instagram) ============ -->
+<div class="card square">
+  <div class="wm">80,203</div>
+  <div class="kicker"><span class="brand">MOJ DATA ENGINEERING</span><span class="meta">· MEDIUM · AUGUST 2026</span></div>
+  <div class="rule"></div>
+  <div class="title">The Backlog<br><span class="em">Won't Stop.</span></div>
+  <div class="stats">
+    <div class="stat r"><div class="num">80,203</div><div class="lab">Open cases · a record</div></div>
+    <div class="stat b"><div class="num">21,002</div><div class="lab">Waiting over a year</div></div>
+    <div class="stat o"><div class="num">52.8%</div><div class="lab">Of the oldest are sexual or violent</div></div>
+  </div>
+  <div class="quote"><div class="q1">Same courts. More work than ever.</div><div class="q2">A bigger backlog than ever.</div></div>
+  <div class="foot"><div class="name">Yusuf Ismail</div><div class="link">medium.com/@yusufismail_91982</div></div>
+  <div class="social"><div class="r1">READ THE FULL ARTICLE</div><div class="r2">Link in bio · #CrownCourt #DataEngineering</div></div>
+</div>
+</body>
+</html>

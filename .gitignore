@@ -1,0 +1,18 @@
+# --- raw data (download from GOV.UK; too large to version) ---
+data/bronze/*.xlsx
+data/bronze/*.zip
+data/bronze/parquet/*.parquet
+
+# --- regenerated intermediates ---
+data/silver/*.parquet
+data/gold/*.parquet
+# keep the small Gold CSVs so readers can see the outputs:
+!data/gold/*.csv
+
+# --- python / jupyter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+.DS_Store
