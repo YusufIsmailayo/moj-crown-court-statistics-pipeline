@@ -12,7 +12,7 @@ A case does not choose its court.
 
 When a criminal case is serious enough to leave the magistrates' court, it is sent up to the Crown Court — and "the Crown Court" is not one building. It is around seventy of them, scattered across England and Wales, from Snaresbrook in east London to Truro in Cornwall. Which one your case lands in is not a decision anyone makes on the merits. It is geography: where the offence happened, which court covers that patch of the map. A clerical fact, settled before a word of evidence is heard.
 
-I spent the first two pieces in this series on *how big* the Crown Court backlog is and *who* is stuck in it. This piece is about a quieter question, and in some ways a more uncomfortable one. Take the same charge, the same kind of defendant, the same kind of victim — and send one case to a court in the South East and the other to a court in Wales. On paper, identical. Does the wait come out the same?
+[The first piece](https://medium.com/@yusufismail_91982/the-crown-court-is-working-harder-than-ever-the-backlog-still-hit-a-record-5a4c276ef9a1?sharedUserId=yusufismail_91982) in this series looked at *how big* the Crown Court backlog is; [the second](https://medium.com/@yusufismail_91982/the-people-in-a-cell-arent-waiting-the-longest-afa14a44e5f1?sharedUserId=yusufismail_91982), at *who* is stuck in it. This piece is about a quieter question, and in some ways a more uncomfortable one. Take the same charge, the same kind of defendant, the same kind of victim — and send one case to a court in the South East and the other to a court in Wales. On paper, identical. Does the wait come out the same?
 
 It does not. And the gap is measured in months.
 
