@@ -16,3 +16,6 @@ __pycache__/
 .venv/
 env/
 .DS_Store
+
+# --- personal working notes (never publish) ---
+_local/
