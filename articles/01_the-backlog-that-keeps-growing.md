@@ -131,3 +131,7 @@ I built a pipeline to measure the wait. I am not sure that changes anything. But
 *GitHub: github.com/YusufIsmailayo/moj-crown-court-statistics-pipeline · Medium: [@yusufismail_91982](https://medium.com/@yusufismail_91982)*
 
 *This is the first piece in a series on the Crown Court backlog. The next asks a simpler question: of the people waiting, who is on bail — and who is in a prison cell, still legally innocent, waiting for a trial that hasn't come?*
+
+---
+
+*The Crown Court backlog — a four-part series:* **1. Working Harder Than Ever** · [2. The People in a Cell](https://medium.com/@yusufismail_91982/the-people-in-a-cell-arent-waiting-the-longest-afa14a44e5f1) · [3. Justice Has a Postcode Too](https://medium.com/@yusufismail_91982/justice-has-a-postcode-too-eb4d1866d07d) · [4. The Number That Vanished](https://medium.com/@yusufismail_91982/the-number-that-vanished-3fcd507f49ba)

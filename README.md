@@ -78,10 +78,12 @@ Each notebook is self-checking and stops if a validation fails.
 
 ## The article series
 
-1. **The Crown Court Is Working Harder Than Ever. The Backlog Still Hit a Record.** — the backlog and the ageing caseload. *(live)*
-2. Remand: custody vs bail — who is left to age. *(in progress)*
-3. The geography of the backlog. *(planned)*
-4. Why the numbers moved — the One Crown data story. *(planned)*
+A four-part series on Medium, each answering a harder question than the last:
+
+1. **How big is the backlog?** — [The Crown Court Is Working Harder Than Ever. The Backlog Still Hit a Record.](https://medium.com/@yusufismail_91982/the-crown-court-is-working-harder-than-ever-the-backlog-still-hit-a-record-5a4c276ef9a1)
+2. **Who pays for it?** — [The People in a Cell Aren't Waiting the Longest](https://medium.com/@yusufismail_91982/the-people-in-a-cell-arent-waiting-the-longest-afa14a44e5f1) (remand: custody vs bail)
+3. **Does geography decide your wait?** — [Justice Has a Postcode Too](https://medium.com/@yusufismail_91982/justice-has-a-postcode-too-eb4d1866d07d)
+4. **Can we trust the numbers at all?** — [The Number That Vanished](https://medium.com/@yusufismail_91982/the-number-that-vanished-3fcd507f49ba) (the One Crown data story)
 
 ## Licence
 

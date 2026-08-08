@@ -104,3 +104,7 @@ The backlog decides who waits. A prison cell decides who gets noticed. And most 
 *GitHub: github.com/YusufIsmailayo/moj-crown-court-statistics-pipeline · Medium: [@yusufismail_91982](https://medium.com/@yusufismail_91982)*
 
 *This is the second piece in a series on the Crown Court backlog. The first looked at the size and age of the caseload. The next asks where: whether the wait you get depends on which court your case happens to land in.*
+
+---
+
+*The Crown Court backlog — a four-part series:* [1. Working Harder Than Ever](https://medium.com/@yusufismail_91982/the-crown-court-is-working-harder-than-ever-the-backlog-still-hit-a-record-5a4c276ef9a1) · **2. The People in a Cell** · [3. Justice Has a Postcode Too](https://medium.com/@yusufismail_91982/justice-has-a-postcode-too-eb4d1866d07d) · [4. The Number That Vanished](https://medium.com/@yusufismail_91982/the-number-that-vanished-3fcd507f49ba)

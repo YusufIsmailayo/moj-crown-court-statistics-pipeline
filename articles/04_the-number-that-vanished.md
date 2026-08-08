@@ -86,3 +86,7 @@ I built a pipeline to measure a backlog. What it actually taught me was how to h
 *GitHub: github.com/YusufIsmailayo/moj-crown-court-statistics-pipeline · Medium: [@yusufismail_91982](https://medium.com/@yusufismail_91982)*
 
 *The three earlier pieces looked at the size and age of the backlog, who is waiting on remand, and how the wait changes by region. This one looked at the number underneath all of them.*
+
+---
+
+*The Crown Court backlog — a four-part series:* [1. Working Harder Than Ever](https://medium.com/@yusufismail_91982/the-crown-court-is-working-harder-than-ever-the-backlog-still-hit-a-record-5a4c276ef9a1) · [2. The People in a Cell](https://medium.com/@yusufismail_91982/the-people-in-a-cell-arent-waiting-the-longest-afa14a44e5f1) · [3. Justice Has a Postcode Too](https://medium.com/@yusufismail_91982/justice-has-a-postcode-too-eb4d1866d07d) · **4. The Number That Vanished**

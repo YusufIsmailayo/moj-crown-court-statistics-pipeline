@@ -92,3 +92,7 @@ We already knew justice was slow. This is the part that should sit less easily: 
 *GitHub: github.com/YusufIsmailayo/moj-crown-court-statistics-pipeline · Medium: [@yusufismail_91982](https://medium.com/@yusufismail_91982)*
 
 *This is the third piece in a series on the Crown Court backlog. The next and final one steps back from the numbers to the numbers themselves: how the Ministry got its Crown Court figures wrong, paused, and rebuilt them — and what it takes to trust a statistic at all.*
+
+---
+
+*The Crown Court backlog — a four-part series:* [1. Working Harder Than Ever](https://medium.com/@yusufismail_91982/the-crown-court-is-working-harder-than-ever-the-backlog-still-hit-a-record-5a4c276ef9a1) · [2. The People in a Cell](https://medium.com/@yusufismail_91982/the-people-in-a-cell-arent-waiting-the-longest-afa14a44e5f1) · **3. Justice Has a Postcode Too** · [4. The Number That Vanished](https://medium.com/@yusufismail_91982/the-number-that-vanished-3fcd507f49ba)
